@@ -9,6 +9,8 @@ I think understanding the user's needs and implementing the user's requests as i
 
 How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
 
+I would begin by interviewing the client and gathering the clients requirements. I would then create a Business Requirements Document after the meeting with the client. 
+Using the Software Development Life Cycle, I would participate in a Scrum meeting with the Product manager and the rest of the development team. We would use Object oriented analysis and design techniques to create UML diagrams and a Gannt chart to plan everything. The SCRUM team would use a UML use case diagram, many UML activity diagrams, UML sequence diagrams and a UML class diagram. After creating the UML class diagram we could begin developing the application using the attributes and methods we listed in the UML class diagram.
 
 
 
